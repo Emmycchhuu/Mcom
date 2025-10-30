@@ -16,8 +16,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "MCOM Mall - Your Shopping Destination",
-  description: "Shop the best products at MCOM Mall",
-    generator: 'v0.app'
+  description: "Shop the best products at MCOM Mall"
 }
 
 export default function RootLayout({
